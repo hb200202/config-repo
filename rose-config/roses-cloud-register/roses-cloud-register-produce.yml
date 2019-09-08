@@ -25,3 +25,8 @@ management:
   endpoint:
     health:
       show-details: ALWAYS
+spring:
+  security:
+    user:
+      name: bmac
+      password: bmac1234
